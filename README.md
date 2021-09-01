@@ -1,0 +1,2 @@
+# SEVEN-FIT
+Es una aplicación que ayuda a los jovenes de las instituciones educativas en el pais a tener una alimentación balanceada y asi permitir que ellos conozcan más sobre los alimentos saludables y no saludables, para que ellos mismos puedan mantenerse en forma de acuerdo a su edad. Este problema surge en lo general por la mala alimentación que llevan los adolecentes de las instituciones educativas, ya que mucho sufren de sobre peso.
